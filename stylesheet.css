@@ -3,12 +3,11 @@ div {
 }
 
 #header {
-	z-index: 1;
 	position: fixed;
 	width: 97.5%;
 	margin-top: -20px;
 	height: 60px;
-	background-color: #668284;
+	background-color: black;
 	margin-bottom: 10px;
 }
 
@@ -77,7 +76,7 @@ a:hover {
 #footer {
 	position: relative;
 	height: 50px;
-	background-color: #668284;
+	background-color: black;
 	clear: both;
 	font-family: Verdana, sans-serif;
 	font-size: 14px;
