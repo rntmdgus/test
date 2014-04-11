@@ -76,7 +76,7 @@ a:hover {
 
 #footer {
 	position: relative;
-	height: 50px;
+	height: 60px;
 	background-color: black;
 	clear: both;
 	font-family: Verdana, sans-serif;
@@ -87,5 +87,5 @@ a:hover {
 
 #footer p {
 	position: relative;
-	padding-top: 15px;
+	padding-top: 10px;
 }
